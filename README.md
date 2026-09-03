@@ -13,8 +13,10 @@
 <img width="473" height="696" alt="image" src="https://github.com/user-attachments/assets/042f7d44-d6ab-4024-912c-a18069ca7ccf" />
 
 * **Invisible Overlay Window:** A transparent canvas that renders the HUD assets directly over the emulator. It can be freely dragged and positioned anywhere on the screen when unlocked.
+
 **Empty Overlay Window:**
 <img width="670" height="985" alt="image" src="https://github.com/user-attachments/assets/38c973df-6353-4a75-9de8-9abc9fbc1390" />
+
 
 **Overlay Window with a couple of HUDS:**
 <img width="652" height="968" alt="image" src="https://github.com/user-attachments/assets/59c48c57-6140-461d-a938-c42b378aeb7e" />
